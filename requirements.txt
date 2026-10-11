@@ -1,0 +1,6 @@
+qiskit==2.5.2
+qiskit-aer==0.17.2
+numpy==2.4.4
+pandas==3.0.2
+matplotlib==3.10.9
+pylatexenc
